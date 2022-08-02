@@ -1,7 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Quan</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
-Currently working on **my coding skills** ⌛
+- Just completed the **Data Science Bootcamp** at **Le Wagon**🚌
+
+- Currently working on **my coding skills** 🆙⌛
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
