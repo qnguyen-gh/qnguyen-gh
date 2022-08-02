@@ -1,9 +1,10 @@
-<h1 align="center">Hello there 👋, I'm Quan</h1>
+<h1 align="center">Hello there 👋 <a href="https://emoji.gg/emoji/greensaber"><img src="https://cdn3.emoji.gg/emojis/greensaber.png" width="32px" height="32px" alt="greensaber"></a>
+, I'm Quan</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
 - Just completed the **Data Science Bootcamp** at **Le Wagon**🚌
 
-- Currently working on **my coding skills** 🆙⌛
+- Currently working on **my coding skills** 🆙⌛ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
