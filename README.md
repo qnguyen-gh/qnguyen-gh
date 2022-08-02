@@ -1,6 +1,8 @@
 <h1 align="center">Hello there 👋, I'm Quan</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
+Currently working on **my coding skills** ⌛
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/quan-ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quan-ng" height="30" width="40" /></a>
