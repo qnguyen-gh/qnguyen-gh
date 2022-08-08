@@ -4,6 +4,10 @@
 
 - Just completed the **Data Science Bootcamp** at **Le Wagon**🚌
 
+- :art: [@olganowak](https://github.com/olganowak), [@lamothearthur](https://github.com/lamothearthur), [@GaOlMe](https://github.com/GaOlMe) and me just created [F A P ⓒ](https://fapc.herokuapp.com/): Our Fine Art Painting Classifier tries to predict the genre based on thousands of images that it has learned on. It can distinguish between 15 genres and (should) more often than not predict them correctly. Feel free to give it a shot and see if you are smarter than our model!
+      
+     You can find the Github Repositories for the project here: **[smArt](https://github.com/olganowak/smArt)** and **[smArtWebsite](https://github.com/olganowak/smArtWebsite)**
+
 - Currently working on **my coding skills** 🆙⌛ 
 
 <h3 align="left">Connect with me:</h3>
